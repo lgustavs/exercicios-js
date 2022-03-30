@@ -1,4 +1,4 @@
-// par nome/valor
+// par Nome Valor
 const saudacao = 'Opa' // contexto léxico 1
 
 function exec() {
