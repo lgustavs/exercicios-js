@@ -1,5 +1,4 @@
-//novo recurso do ES2015
-
+//novo recurso do ES2015, Destructuring #01
 const pessoa = {
   nome: "Ana",
   idade: 5,
