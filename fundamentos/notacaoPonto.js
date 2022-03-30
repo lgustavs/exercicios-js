@@ -1,3 +1,4 @@
+// Notação Ponto
 console.log(Math.ceil(6.1))
 
 const obj1 = {}
